@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Music Suggestion</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="welcome">Jean</string>
+    <string name="history">history</string>
+    <string name="bands">Please enter 3 of your favorite bands</string>
+    <string name="one_of_my_fav_band">Artist</string>
+    <string name="continue_button_text">continue</string>
+    <string name="saved_artists">Saved Artists</string>
+    <string name="youtube_api_key" translatable="false">AIzaSyDg2njTmJWxXuSHDcnRXR_3A1_9s0LaBJY</string>
+    <string name="i_like_it">I like it</string>
+    <string name="i_don_t_like_it">I don\'t like it</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="clear_history">Clear history?</string>
+    <string name="delete_all_artists">This will delete all like artists</string>
+    <string name="theme">Theme</string>
+    <string name="cancel">Cancel</string>
+    <string name="mood_mode_button_text">Mood</string>
+    <string name="Warning">Warning</string>
+    <string name="settings">Settings</string>
+    <string name="icon_shaped_like_an_empty_heart">icon shaped like an empty heart</string>
+    <string name="icon_shaped_like_a_full_heart">icon shaped like a full heart</string>
+    <string name="classic_mode_button_text">Classic</string>
+    <string name="keep_saved_artists">Keep liked artists in memory ?</string>
+    <string name="confirm_delete">Do you really want to clear history ?</string>
+    <string name="mood_analysing">Please wait, while we think of the best fitting music</string>
+    <string name="description">We will attempt to guess your next favorite artist based on what you already like</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="thumb_up">Thumb up</string>
+    <string name="thumb_down">Thumb down</string>
+    <string name="try_again">Try again</string>
+    <string name="requires_internet">This service requires internet</string>
+</resources>

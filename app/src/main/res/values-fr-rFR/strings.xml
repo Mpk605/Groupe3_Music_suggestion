@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Suggestion</string>
+    <string name="title_welcome">Bienvenue</string>
+    <string name="welcome">Jean</string>
+    <string name="history">Historique</string>
+    <string name="bands">Entrez 3 de vos groupes préférés</string>
+    <string name="one_of_my_fav_band">Artiste</string>
+    <string name="continue_button_text">Continuer</string>
+    <string name="saved_artists">Artistes sauvegardés</string>
+    <string name="i_like_it">J\'aime</string>
+    <string name="i_don_t_like_it">Je n\'aime pas</string>
+    <string name="title_activity_settings">Paramètres</string>
+    <string name="keep_saved_artists">Conserver les artistes likés dans la mémoire ?</string>
+    <string name="clear_history">Supprimer l\'historique</string>
+    <string name="delete_all_artists">Cela va supprimer tous les artistes sauvegardés</string>
+    <string name="theme">Thème</string>
+    <string name="confirm_delete">Voulez-vous vraiment supprimer tout l\'historique ?</string>
+    <string name="cancel">Annuler</string>
+    <string name="mood_mode_button_text">Mood</string>
+    <string name="Warning">Attention !</string>
+    <string name="mood_analysing">Veuillez patienter, nous cherchons la musique appropriée</string>
+    <string name="settings">Paramètres</string>
+    <string name="icon_shaped_like_an_empty_heart">Icone en forme de coeur vide</string>
+    <string name="icon_shaped_like_a_full_heart">Icone en forme de coeur plein</string>
+    <string name="classic_mode_button_text">Classique</string>
+    <string name="thumb_up">Pousse vers le haut</string>
+    <string name="thumb_down">Pousse vers le bas</string>
+    <string name="try_again">Réessayer</string>
+    <string name="requires_internet">Ce service à besoin d\'internet</string>
+    <string name="description">Nous allons essayer de vous proposer votre prochain artiste préféré</string>
+</resources>

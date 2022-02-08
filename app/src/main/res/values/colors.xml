@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light theme -->
+    <color name="lightColorPrimary">#777777</color>
+    <color name="lightColorPrimaryDark">#000000</color>
+    <color name="lightColorAccent">#C00000</color>
+    <color name="lightColorBackground">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>

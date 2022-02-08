@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="AdaptStyle" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="android:fitsSystemWindows">true</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="AdaptStyle">
+        <item name="android:textColor">@color/lightColorPrimary</item>
+        <item name="colorPrimaryDark">@color/lightColorPrimaryDark</item>
+        <item name="colorAccent">@color/lightColorAccent</item>
+    </style>
+</resources>
